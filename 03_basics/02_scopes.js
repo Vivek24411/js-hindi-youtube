@@ -44,7 +44,7 @@ if (true) {
 // ++++++++++++++++++ interesting ++++++++++++++++++
 
 
-console.log(addone(5))
+console.log(addone(5))   //pehle call krna chalega aise declare krne me
 
 function addone(num){
     return num + 1
@@ -52,7 +52,7 @@ function addone(num){
 
 
 
-addTwo(5)
+addTwo(5)               //abhi error ayega pehel call krne me aise declare krne me
 const addTwo = function(num){
     return num + 2
 }
