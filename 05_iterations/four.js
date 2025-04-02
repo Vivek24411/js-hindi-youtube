@@ -15,7 +15,7 @@ for (const key in programming) {
     //console.log(programming[key]);
 }
 
-// const map = new Map()
+// const map = new Map()                //map is not iterable
 // map.set('IN', "India")
 // map.set('USA', "United States of America")
 // map.set('Fr', "France")
